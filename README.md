@@ -1,13 +1,13 @@
 
-#This is a mock Tech test built in React
+# This is a mock tech test built in React
 
 This little app queries the Nasa Api and returns images
 
-# It's build using 
+#I built it with:
 
-## React
-## Axios
-## Nasa Api
+##React
+##Axios
+##Nasa Api
 
 This is a work in progress
 
