@@ -18,13 +18,7 @@ The following functionalities need to be implemented:
 
 This little app queries the Nasa Api and returns images
 
-#I built it with:
-
-##React
-##Axios
-##Nasa Api
-
-This is a work in progress
+## This is a work in progress
 
 Given more time, I would work on making the application more mobile friendly.
 I would also provide the user with more useful data from the search result. For example, number of items returned. 
