@@ -28,7 +28,6 @@ This little app queries the Nasa Api and returns images
 ##Nasa Api
 
 This is a work in progress
->>>>>>> 5de1f49d72846827269750c1542a61e62e197e1b
 
 # Getting Started with Create React App
 
