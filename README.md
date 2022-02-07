@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React technical test mock
 You are expected to build a React web application that allows users to search for images based on a query relating to space. You are provided the NASA API endpoint for image search.
 
@@ -15,8 +14,6 @@ The following functionalities need to be implemented:
 ### PropTypes
 ### Uuid
 
-=======
-
 # This is a mock tech test built in React
 
 This little app queries the Nasa Api and returns images
@@ -28,6 +25,11 @@ This little app queries the Nasa Api and returns images
 ##Nasa Api
 
 This is a work in progress
+
+Given more time, I would work on making the application more mobile friendly.
+I would also provide the user with more useful data from the search result. For example, number of items returned. 
+I would incorporate some form of pagination.
+Maybe even add in a way for the user to share the images they like. 
 
 # Getting Started with Create React App
 
@@ -62,7 +64,3 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-<<<<<<< HEAD
-=======
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
->>>>>>> 5de1f49d72846827269750c1542a61e62e197e1b
