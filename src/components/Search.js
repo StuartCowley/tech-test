@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "../styles/Search.css";
 import getImages from "../requests/getImages";
-
+import PropTypes from 'prop-types';
 
 const Search = ({ setSearchResults }) => {
     const [value, setValue] = useState();
@@ -25,3 +25,7 @@ const Search = ({ setSearchResults }) => {
 };
 
 export default Search;
+
+Search.prototype = {
+setSearchResults: PropTypes.func.isRequired,
+};

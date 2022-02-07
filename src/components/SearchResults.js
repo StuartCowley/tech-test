@@ -1,9 +1,10 @@
 import React from "react";
 import '../styles/SearchResults.css';
+import PropTypes from 'prop-types';
 
 const SearchResults = ({ results }) => {
     if (!results.length) {
-        return <p>No results</p>
+        return <p className="noResults">No results found</p>
     } else {
         return (
             < div className="image-gallery">
@@ -18,3 +19,7 @@ const SearchResults = ({ results }) => {
 };
 
 export default SearchResults;
+
+SearchResults.prototype = {
+results: PropTypes.array.isRequired
+};
