@@ -24,11 +24,9 @@ exports[`App renders correctly 1`] = `
         Search
       </button>
     </form>
-    <p
-      class="noResults"
-    >
-      No results found
-    </p>
+    <div
+      class="image-gallery"
+    />
   </div>
 </DocumentFragment>
 `;
