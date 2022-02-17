@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  /* display: flex;
+  align-items: center;
+  justify-content: center;
+  height:6em;
+  width: 10em; */
+  margin: auto;
+  width: 500px;
+  height: 300px;
+}
+
